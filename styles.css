@@ -1,0 +1,25 @@
+nav {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 15% 85%;
+}
+
+.overview {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.Infomation {
+    display:grid;
+    grid-template-columns: 15% 85%;
+}
